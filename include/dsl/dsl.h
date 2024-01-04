@@ -67,6 +67,7 @@
 #endif
 
 // FILE NAMES
+// TODO: rename the main config file since people can't read
 #define DSL_CONFIG_FILE DSL_ROOT_PREFIX "config.txt" // *
 #define DSL_SCRIPT_CONFIG "config.txt" // collection relative
 #ifndef DSL_SERVER_VERSION
